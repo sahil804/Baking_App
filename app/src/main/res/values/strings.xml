@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Baking_App</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_recipestep_list">RecipeSteps</string>
+    <string name="title_recipestep_detail">RecipeStep Detail</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="no_network">No Network Available</string>
+</resources>
